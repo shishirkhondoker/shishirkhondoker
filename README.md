@@ -1,4 +1,4 @@
-### Hi there 👋, I'm SHISHIR KHONDOKER
+### Hi, I'm SHISHIR KHONDOKER
 #### A Passionate Software Engineer from Bangladesh | Lifelong Learner in Engineering & Technology
 
 Skills: HTML-CSS , Java , Java Script ,Python, React , Node.JS , Express.JS , Database
