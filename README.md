@@ -11,13 +11,4 @@ Skills: HTML-CSS , Java , Java Script ,Python, React , Node.JS , Express.JS , Da
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shishirkhondoker&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/shishirkhondoker)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/shishirkhondoker)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shishirkhondoker&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/shishirkhondoker/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/shishirkhondoker)  
 
