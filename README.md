@@ -5,7 +5,7 @@ Skills: HTML-CSS , Java , Java Script ,Python, React , Node.JS , Express.JS , Da
 
 - 🌱 I’m currently learning Nest.JS For Backend 
 - 📫 How to reach me: shishirkhondoker32@gmail.com
-- 🌐 My personal portfolio here: [💻 Shishir Khondoker Portfolio](https://euphonious-mooncake-b60319.netlify.app/)
+- 🌐 My personal portfolio here: [ Shishir Khondoker Portfolio](https://euphonious-mooncake-b60319.netlify.app/)
 - 📄 Know About My Experiences : [ Resume / CV ](https://www.dropbox.com/scl/fi/uadwk1gxc0btn27g3qtbd/Shishir_Khondoker_CV_1.pdf?rlkey=33e3z9884vlac1lsrju9aary6&st=ylwo50pr&dl=0)
   
 
